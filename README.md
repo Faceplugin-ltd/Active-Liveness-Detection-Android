@@ -19,23 +19,12 @@ Explore our iBeta level 2 compliant `active liveness detection` that effectively
 <img src="https://img.shields.io/github/issues-pr/genderev/assassin" alt="pr"/>
 </div>
 
-## Installation
-```bash
-sudo docker pull faceplugin/face-anti-spoofing:20250605
-sudo docker run -d -p 0.0.0.0:8888:8888 faceplugin/face-anti-spoofing:20250605
-```
-
-## How to run
-#### Get Machine Code
-![Get Machine Code](https://github.com/user-attachments/assets/4915258c-badf-47ab-9438-22e523bb6594)
-
-Please [contact us](#contact) to get the license.
-
-#### Activate Machine
-![Activate Machine](https://github.com/user-attachments/assets/b588384d-468e-44cb-9e7f-34dd38156ef4)
-
-#### Liveness Detection using raw file
-![Liveness Detection using raw file](https://github.com/user-attachments/assets/d4b8f7c0-caff-455e-85d4-3a6029ef7685)
+## Screenshots
+<div align="left">
+<img alt="" src="https://github.com/user-attachments/assets/0dcc4bc0-ed1d-4116-9e64-72493368507c" width=300/>
+<img alt="" src="https://github.com/user-attachments/assets/e834b7e2-4448-4d75-b0bb-508d5b1bcb25" width=300/>
+<img alt="" src="https://github.com/user-attachments/assets/65107064-6064-43a5-b1c5-231913334438" width=300/>
+</div>
 
 ## List of our Products
 * **[Face Recognition with Liveness Detection-Android (Java, Kotlin)](https://github.com/Faceplugin-ltd/FaceRecognition-Android)**
